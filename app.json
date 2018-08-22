@@ -1,0 +1,28 @@
+{
+  "name": "CalimityIgniteExpo",
+  "displayName": "CalimityIgniteExpo",
+  "expo": {
+    "name": "CalimityIgniteExpo",
+    "description": "No description",
+    "slug": "CalimityIgniteExpo",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./App/Images/icon.png",
+    "splash": {
+      "image": "./App/Images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
