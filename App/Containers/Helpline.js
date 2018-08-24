@@ -38,7 +38,7 @@ class Helpline extends Component {
           <Text style={styles.header}>Relief Helpline</Text>
         </View>
 
-        <View styles={{padding: 10}}>
+        <View style={{padding: 10}}>
           <TextInput
             placeholder='Write your message here'
             multiline={true}
