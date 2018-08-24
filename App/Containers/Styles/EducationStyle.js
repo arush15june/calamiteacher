@@ -41,9 +41,13 @@ export default StyleSheet.create({
     textAlign: 'center',
   },
   choiceOne: {
-    // backgroundColor: '#D8DBE2'
+    // borderWidth: 2,
+    // borderColor: '#222',
+    // borderRadius: 5
   },
   choiceTwo: {
-    // backgroundColor: '#D8DBE2'
+    // borderWidth: 2,
+    // borderColor: '#222',
+    // borderRadius: 5
   }
 })
